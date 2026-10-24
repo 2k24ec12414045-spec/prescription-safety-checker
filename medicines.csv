@@ -1,0 +1,4 @@
+brand_name,aliases,active_ingredients,review_status,source
+DemoBrandA,demobranda,DEMO_INGREDIENT_X,unverified,demo_only
+DemoBrandB,demobrandb,DEMO_INGREDIENT_X,unverified,demo_only
+DemoBrandC,demobrandc,DEMO_INGREDIENT_Y,unverified,demo_only
